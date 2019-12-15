@@ -1,0 +1,30 @@
+.div-img-food{
+    width: 100%;
+    text-align: center;
+}
+.img-food{
+    width: 220px;
+    box-shadow: 2px 2px 3px 3px #ccc;
+}
+.img-account{
+    width: 80px;
+    box-shadow: 2px 2px 3px 3px #ccc;
+}
+.show-image-food{
+    width: 200px;
+    box-shadow: 1px 1px 2px 2px #ccc;
+}
+.columnchart_material{
+    width: 100%;
+    height: 600px;
+}
+.mb-10{
+    margin-bottom: 60px;
+}
+.form-year{
+    margin: 15px;
+}
+.btn-go{
+    font-size: 10px;
+    clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%);
+}
